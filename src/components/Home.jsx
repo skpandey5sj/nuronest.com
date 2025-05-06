@@ -1,6 +1,5 @@
 import React from 'react'
 import HeroSection from './HeroSection'
-import Nav from './nav'
 
 const Home = () => {
   return (
